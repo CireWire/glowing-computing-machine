@@ -8,7 +8,7 @@ Sorts the given list using the binary sort algorithm.
 Author: CireWire
 Date: 06/29/2023
 
-
+"""
 def binary_sort(arr):
     """
     Sorts the given list using the binary sort algorithm.
